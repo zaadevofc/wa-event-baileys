@@ -1,6 +1,6 @@
 {
     "name": "@zaadevofc/wa-event-baileys",
-    "version": "2.6.0",
+    "version": "2.8.0",
     "description": "@zaadevofc/wa-event-baileys",
     "main": "index.js",
     "private": false,
